@@ -1,20 +1,18 @@
 # Customer_Feedback_Classification
 
-# Customer Feedback Sentiment Classification
-
-## Overview
+# Overview
 
 In this assignment, I worked on **Task 1: Encoder-Only (BERT)** to perform **sentiment classification** on customer feedback data. The goal was to determine whether a given piece of feedback expressed a **positive**, **negative**, or **neutral** sentiment.
 
-## Objective
+# Objective
 
 The main objective was to fine-tune a **BERT-based model** (encoder-only architecture) to classify textual feedback according to customer sentiment.
 
-## Dataset
+# Dataset
 
 I used the dataset from Kaggle: [Customer Feedback Dataset](https://www.kaggle.com/datasets/vishweshsalodkar/customer-feedback-dataset?select=sentiment-analysis.csv). It contains text feedback along with sentiment labels.
 
-## Steps Performed
+# Steps Performed
 
 1. **Data Preprocessing & Tokenization**
 
